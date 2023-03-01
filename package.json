@@ -1,0 +1,23 @@
+{
+  "name": "123124512342143",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuePark/123124512342143.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuePark/123124512342143/issues"
+  },
+  "homepage": "https://QuePark.github.io/123124512342143",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
